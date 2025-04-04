@@ -32,5 +32,24 @@ Accuracy: (Correctly typed characters / total characters) × 100
 This project provides a fun way to practice typing, improve speed, and enhance accuracy while tracking progress.
 
 
-Output:
+Output:-
+
+Snapshoot 1:-
+
+![Screenshot 2025-04-04 173723](https://github.com/user-attachments/assets/5015f6c5-80d0-4d0c-a058-1472f0da27a5)   
+
+Snapshoot 2:-
+
+![Screenshot 2025-04-04 170736](https://github.com/user-attachments/assets/e210ee3f-c7b3-4125-b5cc-be113ece7a52)
+
+video:-
+
+
+https://github.com/user-attachments/assets/bafa50be-f00d-4672-9676-3bfa3f7c6675
+
+
+
+
+
+
 
